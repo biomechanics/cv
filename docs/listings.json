@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/post-with-code/index.html",
+      "/posts/zwei/zwei.html",
+      "/posts/20220202-Vicon-UserMeeting-Dortmund/2022ViconUserMeeting.html"
+    ]
+  }
+]
